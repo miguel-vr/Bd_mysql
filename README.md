@@ -1,3 +1,3 @@
 # Repositório para Conteúdos/Atividades sobre MySQL - Generation Brasil
 
-![java-adesivo-sticker](https://user-images.githubusercontent.com/77131275/159093315-2c20f773-83ac-4c4d-a893-617aedb20b14.png)
+![MySQL-banco-de-dados-linux-1024x512](https://user-images.githubusercontent.com/77131275/159093755-4817b7d3-a3eb-4815-a347-d3c1c898d0a8.png)
